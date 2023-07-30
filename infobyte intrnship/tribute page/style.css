@@ -1,0 +1,58 @@
+body{
+    background-color: black;
+    margin: 0%;
+}
+#title{
+    font-weight: bold;
+    font-size: 5vh;
+    text-align: center;
+    color: aliceblue;
+    padding-top: 2%;
+    line-height: 150%;
+}
+img{
+    display: block;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#caption{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:red;
+    display: block;
+    text-align: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tribute-data{
+    background-color: gray;
+    height: auto;
+    width: auto;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 30px;
+    padding: 30px 30px;
+    margin-top: 50px;
+    
+}
+h1.title-stan-lee{
+    font-size: 35px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+ul{
+
+    margin: auto;
+    color: aliceblue;
+}
+h3.maker{
+    text-align: center;
+    text-decoration-line: overline;
+    color: whitesmoke;
+}
+p.link{
+    text-align: center;
+}
